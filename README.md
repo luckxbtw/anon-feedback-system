@@ -9,7 +9,6 @@ FastAPI backend для корпоративної системи анонімн�
 * **Backend:** FastAPI + PostgreSQL + SQLAlchemy
 * **Auth:** JWT
 * **Async:** `asyncpg`, `asyncio`
-* **Security:** passlib, jose
 * **DevOps:** Docker, Docker Compose
 
 ---
